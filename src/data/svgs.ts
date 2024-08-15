@@ -2,6 +2,12 @@ import type { iSVG } from '../types/svg';
 
 export const svgs: iSVG[] = [
   {
+    title: 'JigsawStack',
+    category: ['AI', 'Software'],
+    route: '/library/JigsawStackicon.svg',
+    url: 'https://jigsawstack.com/'
+  },
+  {
     title: 'Inflection AI',
     category: 'AI',
     route: {
